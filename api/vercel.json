@@ -1,8 +1,6 @@
 {
   "version": 2,
-  "name": "petgram-server-xame2005",
-  "alias": ["petgram-api-xame2005"],
-  "builds": [{ "src": "index.js", "use": "@now/node" }],
+  "builds": [{ "src": "index.js", "use": "@vercel/node" }],
   "routes": [{
     "headers": {
         "Access-Control-Allow-Origin": "*",

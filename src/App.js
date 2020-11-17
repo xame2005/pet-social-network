@@ -1,10 +1,12 @@
 import React from "react";
-import { Category } from "./components/category/index";
+import { ListOfCategories } from "./components/ListOfCategories/index";
+import { GlobalStyle } from "./GlobalStyles";
 
 export default function App() {
   return (
-    <div>
-      <Category />
-    </div>
+    <>
+      <GlobalStyle />
+      <ListOfCategories />
+    </>
   );
 }

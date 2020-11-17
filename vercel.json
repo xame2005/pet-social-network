@@ -1,6 +1,5 @@
 {
     "version": 2,
-    "name": "petgram-server-xame2005",
     "builds": [{ "src": "package.json", "use": "@vercel/static-build" }],
     "routes": [
         {
