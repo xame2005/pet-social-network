@@ -1,0 +1,204 @@
+[33mcommit 9880543b492fc218a05e12802e58984ddcde62f5[m[33m ([m[1;36mHEAD[m[33m)[m
+Author: Samuel Gonzalez <xame2005@gmail.com>
+Date:   Mon Nov 16 23:39:04 2020 -0600
+
+    [CREATED] ListOfCategories component and db.json iteration of categories
+
+[33mcommit 2b2002dd7f2e2dcf17d88caa37021eae8c1d4ae5[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Samuel Gonzalez <xame2005@gmail.com>
+Date:   Tue Nov 10 23:47:14 2020 -0600
+
+    [Created] Proyect setup, first components, introdutcion to vercel and styled components
+
+[33mcommit 1a4eb8b1dd80aa4174a3309364ad4aaba39bd7c2[m
+Author: Miguel Ángel Durán <1561955+midudev@users.noreply.github.com>
+Date:   Mon Apr 20 18:01:57 2020 +0200
+
+    Update README.md
+
+[33mcommit 6b391a2554f6c8ceeca51d16066dc515826b67a3[m
+Author: midudev <miduga@gmail.com>
+Date:   Thu Jun 13 16:45:41 2019 -0500
+
+    Clean
+
+[33mcommit 051dc3f397e50e11fef50a8b0a1368254907d3a5[m
+Author: midudev <miduga@gmail.com>
+Date:   Tue Jun 11 09:12:30 2019 -0500
+
+    Add image
+
+[33mcommit f09e86c644aa7f828fef0ecb69d5ec2c61e2753b[m
+Merge: 1637aad f844024
+Author: Miguel Ángel Durán <1561955+midudev@users.noreply.github.com>
+Date:   Mon Jun 10 12:36:37 2019 -0500
+
+    Merge pull request #2 from midudev/develop
+    
+    2.01
+
+[33mcommit f8440242610b335cfac17f3af89082b6bc05ab9c[m
+Author: midudev <miduga@gmail.com>
+Date:   Mon Jun 10 12:34:36 2019 -0500
+
+    2.01
+
+[33mcommit 1637aad0f2703fc93ec33cb8183b53160a85de52[m
+Author: midudev <miduga@gmail.com>
+Date:   Mon Jun 10 11:01:26 2019 -0500
+
+    Update README
+
+[33mcommit e1bc8ddfc332980a73f52ce22ebf1048d1cb237b[m
+Author: Miguel Ángel Durán <1561955+midudev@users.noreply.github.com>
+Date:   Mon Jun 10 10:59:56 2019 -0500
+
+    Update README.md
+
+[33mcommit 965c57e646cc7f665f6c3456cdaf1f81db76926a[m
+Author: midudev <miduga@gmail.com>
+Date:   Wed Jun 5 09:57:00 2019 +0200
+
+    Get favs before toggle like
+
+[33mcommit 3afde44c6a9e2ce3e204a8c94fac6398ee0d96c3[m
+Author: midudev <miduga@gmail.com>
+Date:   Sat Jun 1 14:18:46 2019 +0200
+
+    Add anonymous like
+
+[33mcommit 7880d0981efbc2d74acec77be5a8344d9fc214cc[m
+Author: midudev <miduga@gmail.com>
+Date:   Sun May 19 23:34:52 2019 +0200
+
+    Fix dev mode
+
+[33mcommit 88e629615ff2a449ecbf3bab60d19dd6cbc49fc7[m
+Author: midudev <miduga@gmail.com>
+Date:   Sat May 18 21:59:29 2019 +0200
+
+    Remove env file
+
+[33mcommit 2d47909bdfda2964b61d7d65ae133fd01a6da0b1[m
+Author: midudev <miduga@gmail.com>
+Date:   Sat May 18 21:26:01 2019 +0200
+
+    Add deploy script
+
+[33mcommit fb638d614766744b5607629f818eaf7c183cf024[m
+Author: midudev <miduga@gmail.com>
+Date:   Sat May 18 21:18:59 2019 +0200
+
+    Fix all now troubles and simplify env
+
+[33mcommit 03b0d31c2c8519f6aff14dcea2c22e57004274cd[m
+Author: midudev <miduga@gmail.com>
+Date:   Sat May 18 21:05:58 2019 +0200
+
+    Make api compatible with now
+
+[33mcommit aeae34f8c524998d7fe3127b0a732c0aa488437a[m
+Author: midudev <miduga@gmail.com>
+Date:   Sat May 18 20:25:12 2019 +0200
+
+    Add changes to server and assets
+
+[33mcommit c6553c897af5c9079a4759d38533e3a08a95c57d[m
+Merge: c654058 394a358
+Author: Miguel Ángel Durán <1561955+midudev@users.noreply.github.com>
+Date:   Sat May 18 19:49:36 2019 +0200
+
+    Merge pull request #1 from midudev/feat/create-server
+    
+    Feat/create server
+
+[33mcommit 394a358c63e612e3f8c1ef4fd7618a287a97502b[m
+Author: midudev <miduga@gmail.com>
+Date:   Sat May 18 19:47:25 2019 +0200
+
+    Upgrade dependencies
+
+[33mcommit 2ff89a682075851328416d2cb308001d452d2a89[m
+Author: midudev <miduga@gmail.com>
+Date:   Mon Apr 29 11:12:09 2019 +0200
+
+    Fix cors
+
+[33mcommit 946b84bd6b521646c01b697b9ee0a70c50dc659e[m
+Author: midudev <miduga@gmail.com>
+Date:   Mon Apr 29 10:31:53 2019 +0200
+
+    Add jwt and improve db
+
+[33mcommit d1e6d9534d723660aef4a836f05b333e5c7dae4c[m
+Author: midudev <miduga@gmail.com>
+Date:   Sun Apr 21 13:04:54 2019 +0200
+
+    Add cors and errorHandler
+
+[33mcommit cac6a0509f037d6235bd5b9a066094a2eb311b3f[m
+Author: midudev <miduga@gmail.com>
+Date:   Sun Apr 21 13:04:47 2019 +0200
+
+    Add more photos and shuffle them
+
+[33mcommit c65405846727652f9935dee0b731f3c7dc185f42[m
+Author: midudev <miduga@gmail.com>
+Date:   Sat Apr 20 11:20:37 2019 +0200
+
+    Update gitignore
+
+[33mcommit 647d8ef343d8c0f5b3f059233aba54c1406a769d[m
+Author: midudev <miduga@gmail.com>
+Date:   Sat Apr 20 11:20:18 2019 +0200
+
+    Update gitignore and schema
+
+[33mcommit 265778e13e3e5ef7622c29f77eb855215b6e9cfe[m
+Author: midudev <miduga@gmail.com>
+Date:   Sat Apr 20 10:24:51 2019 +0200
+
+    Move server to api and remove node_modules
+
+[33mcommit ae281119fe908e7d2e128760fc18d171315fdfef[m
+Merge: 743d151 51d5082
+Author: midudev <miduga@gmail.com>
+Date:   Thu Apr 18 20:33:29 2019 +0200
+
+    Merge branch 'master' of https://github.com/midudev/curso-platzi-react-avanzado into feat/create-server
+
+[33mcommit 743d151aa0396198b1b6efcc614e2c7851b885b4[m
+Author: midudev <miduga@gmail.com>
+Date:   Thu Apr 18 20:33:10 2019 +0200
+
+    Update db.json with new data
+
+[33mcommit 51d508207fe8e4b7084819e29307e2627c08a69c[m
+Author: midudev <miduga@gmail.com>
+Date:   Thu Apr 18 20:03:36 2019 +0200
+
+    Update gitignore file to ignore dist folder
+
+[33mcommit 5aca09df4aacefec7577ad4f4375de72754751eb[m
+Author: midudev <miduga@gmail.com>
+Date:   Thu Apr 18 16:34:18 2019 +0200
+
+    First commit for creating the React Apollo server
+
+[33mcommit 2550ba890dc232c90727962a57e60c2a25ad0c40[m
+Author: midudev <miduga@gmail.com>
+Date:   Thu Apr 18 12:11:43 2019 +0200
+
+    Add gitignore file
+
+[33mcommit 8b7fe78c1d2b795b0016179756b3f0ee89daaaef[m
+Author: Miguel Ángel Durán <1561955+midudev@users.noreply.github.com>
+Date:   Wed Apr 17 21:33:07 2019 +0200
+
+    Create .editorconfig
+
+[33mcommit 7f55116b7ea89ab35efef9ebbe71efc4cccc86e8[m
+Author: Miguel Ángel Durán <1561955+midudev@users.noreply.github.com>
+Date:   Wed Apr 17 15:50:30 2019 +0200
+
+    Initial commit
